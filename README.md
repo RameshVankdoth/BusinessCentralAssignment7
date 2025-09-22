@@ -104,10 +104,12 @@ This assignment demonstrates:
 ---
 
 ## To-Do
-
-- [!NOTE] Complete Post Code lookup implementation
-- [!NOTE] Clarify system-generated vs. manual audit fields
-- [!NOTE] Fix primary key misconfiguration (should use `ID`)
+> [!NOTE]
+> Complete Post Code lookup implementation
+> [!NOTE]
+> Clarify system-generated vs. manual audit fields
+> [!NOTE]
+> Fix primary key misconfiguration (should use `ID`)
 
 ---
 
